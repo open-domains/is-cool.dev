@@ -1,1 +1,1 @@
-"# is-cool.dev" 
+# is-cool.dev
